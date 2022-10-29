@@ -1,0 +1,56 @@
+#logo{
+    height: 50px;
+    width: 90px;
+}
+.ill{
+    width: 100%;
+    height: auto;
+}
+.myCon{
+    margin-top: 1px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(233, 240, 227) ;
+}
+.myCon .box{
+    margin-top:50px ;
+    margin-bottom: 50px;
+}
+.mycard{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(234, 244, 231);
+}
+.mycards{
+    margin: 7px;
+    padding: 20px;
+    background-color: rgb(219, 239, 243);
+    border-radius: 10px;
+}
+.details{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding:20px;
+}
+.cardimg{
+    height: 70px;
+    width: 50px;
+    margin: auto;
+    padding: 5px;
+}
+.card-deck .myimg{
+    width: 100px;
+    height: auto;
+
+}
+.cd{
+    height: 20px;
+    width: 20px;
+}
+.myfooter{
+    margin-top: 10px;
+}
+.mycontainer{
+    padding-top: 1px;
+    padding-bottom: 30px;
+}
